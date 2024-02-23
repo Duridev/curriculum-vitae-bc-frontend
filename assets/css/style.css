@@ -1,0 +1,17 @@
+body {
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    width: 130px;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+}
